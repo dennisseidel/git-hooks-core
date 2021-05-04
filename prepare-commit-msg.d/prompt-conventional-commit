@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# https://github.com/commitizen/cz-cli
-exec < /dev/tty && cz --hook || false
